@@ -53,8 +53,4 @@ Contributions and suggestions for further analysis are welcome. Please open an i
 
 **Contact:**
 
-[Your Name/Username] - [Link to your GitHub Profile (Optional)]
-
-**License:**
-
-[Choose a license, e.g., MIT License]
+stacjstaton@github.com
